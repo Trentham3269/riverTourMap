@@ -2,7 +2,7 @@
 shinyUI( 
   fluidPage(
     # include Google Analytics
-    # tags$head(includeScript("www/google-analytics.js"))
+    tags$head(includeScript("www/google-analytics.js")),
     
     h2(titlePanel("Bruce Springsteen and the E Street Band")),
     h3(titlePanel("The River 2016 & Summer '17 Tours")), 
@@ -20,7 +20,7 @@ shinyUI(
         
       # map output
       mainPanel( 
-        leafletOutput('map', height = 450)
+        leafletOutput('map', height = 500)
       ) 
     )
   ) 

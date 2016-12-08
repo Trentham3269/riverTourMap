@@ -25,8 +25,8 @@ output$map <- renderLeaflet({
   
   leaflet() %>% 
     addTiles() %>% 
-    addMarkers(lat     = map.data()$Latitude
-               , lng   = map.data()$Longitude
+    addMarkers(lng    = map.data()$Longitude
+               , lat  = map.data()$Latitude
                , popup = paste("<b>Show Number:</b>", map.data()$Show, "<br>"
                                , "<b>Leg:</b>", map.data()$Leg, "<br>"
                                , "<b>City:</b>", map.data()$City, "<br>"
