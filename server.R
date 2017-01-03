@@ -24,11 +24,10 @@ map.data <- reactive({
 output$map <- renderLeaflet({
   
   leaflet() %>% 
-    addTiles() %>% 
+    addTiles('http://{s}.tile.osm.org/{z}/{x}/{y}.png') %>% 
     addMarkers(lng    = map.data()$Longitude
                , lat  = map.data()$Latitude
-               , popup = paste("<b>Show Number:</b>", map.data()$Show, "<br>"
-                               , "<b>Leg:</b>", map.data()$Leg, "<br>"
+               , popup = paste("<b>Leg:</b>", map.data()$Leg, "<br>"
                                , "<b>City:</b>", map.data()$City, "<br>"
                                , "<b>Country:</b>", map.data()$Country, "<br>"
                                , "<b>Venue:</b>", map.data()$Venue))
