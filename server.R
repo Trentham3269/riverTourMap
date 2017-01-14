@@ -1,39 +1,53 @@
 # riverTourMap Server
 shinyServer(function(input, output) {
-  
-####################################################################################################
 
-# Data ####
-map.data <- reactive({
+  # DATA -------------------------------------------------------------------------------------------
   
-  # subset data based on user selection
-  if (input$selLeg == "All"){
-    df <- shows
-  } else {
-    df <- subset(shows, shows$Leg == input$selLeg)
-  }
+  # Subset data based on user selection
+  map.data <- reactive({
+    
+    if (input$selLeg == "All"){
+      shows
+    } else {
+      subset(shows, shows$Leg == input$selLeg)
+    }
+    
+  })
   
-  # print object 
-  df
+  # Calculate distances based on user selection
+  map.table <- reactive({
+    
+    nms  <- as.data.frame(c("Kilometres", "Miles"))
+    dist <- as.data.frame(c(round(sum(map.data()$Dist_kms), 1), round(sum(map.data()$Dist_mls), 1)))
+    tbl  <- cbind(nms, dist)
+    colnames(tbl) <- c("Measurement", "Distance")
+    
+    # print object
+    tbl
+    
+  })
   
-})
-
-#__________________________________________________________________________________________________# 
+  # MAP --------------------------------------------------------------------------------------------
   
-# Map ####
-output$map <- renderLeaflet({
+  output$map <- renderLeaflet({
+    
+    leaflet() %>% 
+      addTiles('http://{s}.tile.osm.org/{z}/{x}/{y}.png') %>% 
+      addMarkers(lng     = map.data()$Longitude
+                 , lat   = map.data()$Latitude
+                 , popup = paste("<b>Leg:</b>", map.data()$Leg, "<br>"
+                                 , "<b>City:</b>", map.data()$City, "<br>"
+                                 , "<b>Country:</b>", map.data()$Country, "<br>"
+                                 , "<b>Venue:</b>", map.data()$Venue))
+    
+  })
   
-  leaflet() %>% 
-    addTiles('http://{s}.tile.osm.org/{z}/{x}/{y}.png') %>% 
-    addMarkers(lng    = map.data()$Longitude
-               , lat  = map.data()$Latitude
-               , popup = paste("<b>Leg:</b>", map.data()$Leg, "<br>"
-                               , "<b>City:</b>", map.data()$City, "<br>"
-                               , "<b>Country:</b>", map.data()$Country, "<br>"
-                               , "<b>Venue:</b>", map.data()$Venue))
+  # TABLE ------------------------------------------------------------------------------------------
   
-})
-
-####################################################################################################  
+  output$table <- renderTable({
+    
+    map.table()
+    
+  })
 
 }) 
