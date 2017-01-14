@@ -1,91 +1,90 @@
-Show,Leg,Date,City,Country,Venue,Attendance,Revenue,Latitude,Longitude
-1,North America 1,"January 16, 2016",Pittsburgh,United States,Consol Energy Center,"18,353 / 18,353","$2,412,020",40.439593,-79.988935
-2,North America 1,"January 19, 2016",Chicago,United States,United Center,"19,120 / 19,120","$2,756,475",41.880647,-87.674153
-3,North America 1,"January 27, 2016",New York City,United States,Madison Square Garden,"18,474 / 18,474","$2,508,528",40.750704,-73.993752
-4,North America 1,"January 29, 2016","Washington, D.C.",United States,Verizon Center,"18,093 / 18,093","$2,383,850",38.898125,-77.020963
-5,North America 1,"January 31, 2016",Newark,United States,Prudential Center,"16,539 / 16,539","$2,227,836",40.733282,-74.171262
-6,North America 1,"February 2, 2016",Toronto,Canada,Air Canada Centre,"18,134 / 18,134","$1,793,936",43.643521,-79.379082
-7,North America 1,"February 4, 2016",Boston,United States,TD Garden,"17,039 / 17,039","$2,062,417",42.366487,-71.062106
-8,North America 1,"February 8, 2016",Albany,United States,Times Union Center,"15,162 / 15,162","$1,966,730",42.648525,-73.754733
-9,North America 1,"February 10, 2016",Hartford,United States,XL Center,"14,672 / 14,672","$2,080,294",41.768354,-72.676647
-10,North America 1,"February 12, 2016",Philadelphia,United States,Wells Fargo Center,"19,411 / 19,411","$2,503,356",39.901096,-75.171874
-11,North America 1,"February 16, 2016",Sunrise,United States,BB&T Center,"18,658 / 18,658","$2,174,905",26.158469,-80.325551
-12,North America 1,"February 18, 2016",Atlanta,United States,Philips Arena,"16,713 / 17,450","$1,888,030",33.757168,-84.396345
-13,North America 1,"February 21, 2016",Louisville,United States,KFC Yum! Center,"15,730 / 16,900","$1,847,730",38.25745,-85.753958
-14,North America 1,"February 23, 2016",Cleveland,United States,Quicken Loans Arena,"19,071 / 19,071","$2,520,055",41.496577,-81.688076
-15,North America 1,"February 25, 2016",Buffalo,United States,First Niagara Center,"18,351 / 18,351","$2,186,795",42.874947,-78.876246
-16,North America 1,"February 27, 2016",Rochester,United States,Blue Cross Arena,"12,581 / 12,581","$1,712,080",43.153782,-77.610824
-17,North America 1,"February 29, 2016",Saint Paul,United States,Xcel Energy Center,"18,628 / 18,628","$2,576,190",44.944707,-93.101099
-18,North America 1,"March 3, 2016",Milwaukee,United States,BMO Harris Bradley Center,"17,653 / 17,653","$1,969,655",43.043661,-87.917147
-19,North America 1,"March 6, 2016",St. Louis,United States,Chaifetz Arena,"9,965 / 9,965","$1,334,370",38.632521,-90.228184
-20,North America 1,"March 10, 2016",Phoenix,United States,Talking Stick Resort Arena,"16,480 / 16,480","$2,050,630",33.445953,-112.07145
-21,North America 1,"March 13, 2016",Oakland,United States,Oracle Arena,"17,117 / 17,117","$2,245,715",37.750277,-122.202862
-22,North America 1,"March 15, 2016",Los Angeles,United States,Los Angeles Memorial Sports Arena,"49,302 / 49,302","$7,050,775",34.012589,-118.284748
-23,North America 1,"March 17, 2016",Los Angeles,United States,Los Angeles Memorial Sports Arena,N/A,United States,34.012589,-118.284748
-24,North America 1,"March 19, 2016",Los Angeles,United States,Los Angeles Memorial Sports Arena,N/A,United States,34.012589,-118.284748
-25,North America 1,"March 22, 2016",Portland,United States,Moda Center,"12,074 / 13,700","$1,639,915",45.53186,-122.66682
-26,North America 1,"March 24, 2016",Seattle,United States,KeyArena,"14,767 / 14,767","$1,929,695",47.621582,-122.350849
-27,North America 1,"March 28, 2016[A]",New York City,United States,Madison Square Garden,"18,484 / 18,484","$2,508,003",40.750704,-73.993752
-28,North America 1,"March 31, 2016",Denver,United States,Pepsi Center,"16,770 / 18,540","$2,211,320",39.748639,-105.007529
-29,North America 1,"April 3, 2016",Oklahoma City,United States,Chesapeake Energy Arena,"12,603 / 14,332","$1,557,353",35.463417,-97.515118
-30,North America 1,"April 5, 2016",Dallas,United States,American Airlines Center,"15,563 / 16,961","$1,991,405",32.790492,-96.810285
-31,North America 1,"April 7, 2016",Kansas City,United States,Sprint Center,"12,286 / 13,813","$1,557,745",39.097951,-94.580319
-32,North America 1,"April 12, 2016",Columbus,United States,Schottenstein Center,"12,008 / 13,941","$1,568,810",40.007526,-83.025097
-33,North America 1,"April 14, 2016",Auburn Hills,United States,The Palace of Auburn Hills,"15,754 / 15,754","$1,949,443",42.697129,-83.245517
-34,North America 1,"April 18, 2016",University Park,United States,Bryce Jordan Center,"14,447 / 15,000","$2,038,548",40.80852,-77.855612
-35,North America 1,"April 20, 2016",Baltimore,United States,Royal Farms Arena,"14,124 / 14,124","$2,054,260",39.288478,-76.618697
-36,North America 1,"April 23, 2016",Brooklyn,United States,Barclays Center,"33,248 / 33,248","$4,641,260",40.682657,-73.975282
-37,North America 1,"April 25, 2016",Brooklyn,United States,Barclays Center,N/A,United States,40.682657,-73.975282
-38,Europe,"May 14, 2016",Barcelona,Spain,Camp Nou,"64,865 / 64,865","$6,014,054",41.380645,2.122732
-39,Europe,"May 17, 2016",San Sebastián,Spain,Anoeta Stadium,"41,100 / 41,100","$3,839,494",43.301185,-1.973709
-40,Europe,"May 19, 2016[B]",Lisbon,Portugal,Parque da Bela Vista,N/A,N/A,38.749999,-9.125644
-41,Europe,"May 21, 2016",Madrid,Spain,Santiago Bernabéu Stadium,"55,695 / 55,695","$5,359,310",40.452952,-3.688309
-42,Europe,"May 25, 2016",Manchester,England,Etihad Stadium,"48,614 / 50,000","$5,785,157",53.483006,-2.200345
-43,Europe,"May 27, 2016",Dublin,Ireland,Croke Park,"160,188 / 160,188","$19,228,100",53.360826,-6.251081
-44,Europe,"May 29, 2016",Dublin,Ireland,Croke Park,"160,188 / 160,188",N/A,53.360826,-6.251081
-45,Europe,"June 1, 2016",Glasgow,Scotland,Hampden Park,"45,330 / 45,330","$5,314,504",55.825234,-4.253199
-46,Europe,"June 3, 2016",Coventry,England,Ricoh Arena,"36,588 / 36,588","$4,523,864",52.448089,-1.495482
-47,Europe,"June 5, 2016",London,England,Wembley Stadium,"68,696 / 68,696","$9,251,527",51.556701,-0.279665
-48,Europe,"June 14, 2016",The Hague,Netherlands,Malieveld,"67,715 / 67,715","$5,980,218",52.085721,4.319655
-49,Europe,"June 17, 2016",Munich,Germany,Olympiastadion Munich,"54,119 / 54,119","$4,797,890",48.172374,11.544524
-50,Europe,"June 19, 2016",Berlin,Germany,Olympiastadion Berlin,"66,464 / 66,464","$5,932,416",52.51454,13.23948
-51,Europe,"June 22, 2016",Copenhagen,Denmark,Telia Parken,"50,178 / 50,178","$4,931,456",55.702504,12.572469
-52,Europe,"June 25, 2016",Gothenburg,Sweden,Ullevi,"124,734 / 124,734","$10,016,748",57.706008,11.987253
-53,Europe,"June 27, 2016",Gothenburg,Sweden,Ullevi,"124,734 / 124,734",N/A,57.706008,11.987253
-54,Europe,"June 29, 2016",Oslo,Norway,Ullevaal Stadion,"30,283 / 30,283","$3,111,732",59.949475,10.734653
-55,Europe,"July 3, 2016",Milan,Italy,San Siro,"104,646 / 104,646","$8,998,967",45.478103,9.124199
-56,Europe,"July 5, 2016",Milan,Italy,San Siro,"104,646 / 104,646",N/A,45.478103,9.124199
-57,Europe,"July 9, 2016[C]",Werchter,Belgium,Werchter Festival Grounds,"65,000 / 65,000",N/A,50.967229,4.685723
-58,Europe,"July 11, 2016",Paris,France,AccorHotels Arena,"35,344 / 35,344","$4,103,898",48.839169,2.378229
-59,Europe,"July 13, 2016",Paris,France,AccorHotels Arena,"35,344 / 35,344",N/A,48.839169,2.378229
-60,Europe,"July 16, 2016[D]",Rome,Italy,Circus Maximus,"56,369 / 56,369","$5,258,043",41.885406,12.485067
-61,Europe,"July 20, 2016",Horsens,Denmark,CASA Arena Horsens,"29,423 / 29,423","$2,927,130",55.871204,9.857408
-62,Europe,"July 23, 2016",Gothenburg,Sweden,Ullevi,"64,622 / 64,622","$5,052,563",57.706008,11.987253
-63,Europe,"July 25, 2016",Trondheim,Norway,Granåsen,"36,994 / 36,994","$3,897,365",63.377441,10.308963
-64,Europe,"July 28, 2016",Oslo,Norway,Frogner Park,"37,126 / 37,126","$3,858,353",59.935068,10.743284
-65,Europe,"July 31, 2016",Zürich,Switzerland,Letzigrund,"36,728 / 36,728","$5,178,033",47.382666,8.503808
-66,North America 2,"August 23, 2016",East Rutherford,United States,MetLife Stadium,"153,930 / 153,930","$18,239,039",40.814209,-74.07369
-67,North America 2,"August 25, 2016",East Rutherford,United States,MetLife Stadium,"153,930 / 153,930","$18,239,039",40.814209,-74.07369
-68,North America 2,"August 28, 2016",Chicago,United States,United Center,"19,313 / 19,313","$2,459,600",41.880647,-87.674153
-69,North America 2,"August 30, 2016",East Rutherford,United States,MetLife Stadium,–[a],–[b],40.814209,-74.07369
-70,North America 2,"September 1, 2016","Washington, D.C.",United States,Nationals Park,"36,463 / 36,463","$4,627,705",38.892851,-77.01621
+Show,Leg,Date,City,Country,Venue,Attendance,Revenue,Latitude,Longitude,Prev_Latitude,Prev_Longitude,Dist_kms,Dist_mls
+2,North America 1,"January 19, 2016",Chicago,United States,United Center,"19,120 / 19,120","$2,756,475",41.880647,-87.674153,40.439593,-79.988935,663.512731103055,412.375842823527
+3,North America 1,"January 27, 2016",New York City,United States,Madison Square Garden,"18,474 / 18,474","$2,508,528",40.750704,-73.993752,41.880647,-87.674153,1149.47516381484,714.403457933402
+4,North America 1,"January 29, 2016","Washington, D.C.",United States,Verizon Center,"18,093 / 18,093","$2,383,850",38.898125,-77.020963,40.750704,-73.993752,330.890163474196,205.64957332144
+5,North America 1,"January 31, 2016",Newark,United States,Prudential Center,"16,539 / 16,539","$2,227,836",40.733282,-74.171262,38.898125,-77.020963,317.939861437533,197.600908289331
+6,North America 1,"February 2, 2016",Toronto,Canada,Air Canada Centre,"18,134 / 18,134","$1,793,936",43.643521,-79.379082,40.733282,-74.171262,537.838186303818,334.268605533759
+7,North America 1,"February 4, 2016",Boston,United States,TD Garden,"17,039 / 17,039","$2,062,417",42.366487,-71.062106,43.643521,-79.379082,691.505215051576,429.773284680905
+8,North America 1,"February 8, 2016",Albany,United States,Times Union Center,"15,162 / 15,162","$1,966,730",42.648525,-73.754733,42.366487,-71.062106,223.175735687043,138.704621309536
+9,North America 1,"February 10, 2016",Hartford,United States,XL Center,"14,672 / 14,672","$2,080,294",41.768354,-72.676647,42.648525,-73.754733,132.293374807681,82.2208668786087
+10,North America 1,"February 12, 2016",Philadelphia,United States,Wells Fargo Center,"19,411 / 19,411","$2,503,356",39.901096,-75.171874,41.768354,-72.676647,295.563264251484,183.693762741755
+11,North America 1,"February 16, 2016",Sunrise,United States,BB&T Center,"18,658 / 18,658","$2,174,905",26.158469,-80.325551,39.901096,-75.171874,1602.85192886038,996.178948949896
+12,North America 1,"February 18, 2016",Atlanta,United States,Philips Arena,"16,713 / 17,450","$1,888,030",33.757168,-84.396345,26.158469,-80.325551,932.306998208551,579.432565698292
+13,North America 1,"February 21, 2016",Louisville,United States,KFC Yum! Center,"15,730 / 16,900","$1,847,730",38.25745,-85.753958,33.757168,-84.396345,515.651119232884,320.479253718387
+14,North America 1,"February 23, 2016",Cleveland,United States,Quicken Loans Arena,"19,071 / 19,071","$2,520,055",41.496577,-81.688076,38.25745,-85.753958,500.54414784905,311.09020997455
+15,North America 1,"February 25, 2016",Buffalo,United States,First Niagara Center,"18,351 / 18,351","$2,186,795",42.874947,-78.876246,41.496577,-81.688076,278.069294076321,172.821189606166
+16,North America 1,"February 27, 2016",Rochester,United States,Blue Cross Arena,"12,581 / 12,581","$1,712,080",43.153782,-77.610824,42.874947,-78.876246,107.573045183465,66.8570821525574
+17,North America 1,"February 29, 2016",Saint Paul,United States,Xcel Energy Center,"18,628 / 18,628","$2,576,190",44.944707,-93.101099,43.153782,-77.610824,1253.31269465787,778.938902832733
+18,North America 1,"March 3, 2016",Milwaukee,United States,BMO Harris Bradley Center,"17,653 / 17,653","$1,969,655",43.043661,-87.917147,44.944707,-93.101099,465.854333913593,289.530350474576
+19,North America 1,"March 6, 2016",St. Louis,United States,Chaifetz Arena,"9,965 / 9,965","$1,334,370",38.632521,-90.228184,43.043661,-87.917147,528.153475390307,328.249518576946
+20,North America 1,"March 10, 2016",Phoenix,United States,Talking Stick Resort Arena,"16,480 / 16,480","$2,050,630",33.445953,-112.07145,38.632521,-90.228184,2043.56525550833,1270.08406184483
+21,North America 1,"March 13, 2016",Oakland,United States,Oracle Arena,"17,117 / 17,117","$2,245,715",37.750277,-122.202862,33.445953,-112.07145,1033.84383312306,642.538118783753
+22,North America 1,"March 15, 2016",Los Angeles,United States,Los Angeles Memorial Sports Arena,"49,302 / 49,302","$7,050,775",34.012589,-118.284748,37.750277,-122.202862,545.780424994458,339.204738964859
+23,North America 1,"March 17, 2016",Los Angeles,United States,Los Angeles Memorial Sports Arena,N/A,United States,34.012589,-118.284748,34.012589,-118.284748,0,0
+24,North America 1,"March 19, 2016",Los Angeles,United States,Los Angeles Memorial Sports Arena,N/A,United States,34.012589,-118.284748,34.012589,-118.284748,0,0
+25,North America 1,"March 22, 2016",Portland,United States,Moda Center,"12,074 / 13,700","$1,639,915",45.53186,-122.66682,34.012589,-118.284748,1335.44916179897,829.987048973879
+26,North America 1,"March 24, 2016",Seattle,United States,KeyArena,"14,767 / 14,767","$1,929,695",47.621582,-122.350849,45.53186,-122.66682,233.879257112526,145.356903115305
+27,North America 1,"March 28, 2016[A]",New York City,United States,Madison Square Garden,"18,484 / 18,484","$2,508,003",40.750704,-73.993752,47.621582,-122.350849,3869.98628751373,2405.21211156851
+28,North America 1,"March 31, 2016",Denver,United States,Pepsi Center,"16,770 / 18,540","$2,211,320",39.748639,-105.007529,40.750704,-73.993752,2623.65110761352,1630.60976234526
+29,North America 1,"April 3, 2016",Oklahoma City,United States,Chesapeake Energy Arena,"12,603 / 14,332","$1,557,353",35.463417,-97.515118,39.748639,-105.007529,814.467901905143,506.19509130214
+30,North America 1,"April 5, 2016",Dallas,United States,American Airlines Center,"15,563 / 16,961","$1,991,405",32.790492,-96.810285,35.463417,-97.515118,304.551968517623,189.280278755515
+31,North America 1,"April 7, 2016",Kansas City,United States,Sprint Center,"12,286 / 13,813","$1,557,745",39.097951,-94.580319,32.790492,-96.810285,730.265337749384,453.862857519816
+32,North America 1,"April 12, 2016",Columbus,United States,Schottenstein Center,"12,008 / 13,941","$1,568,810",40.007526,-83.025097,39.097951,-94.580319,996.247646730514,619.171937060605
+33,North America 1,"April 14, 2016",Auburn Hills,United States,The Palace of Auburn Hills,"15,754 / 15,754","$1,949,443",42.697129,-83.245517,40.007526,-83.025097,299.970911787787,186.433133491477
+34,North America 1,"April 18, 2016",University Park,United States,Bryce Jordan Center,"14,447 / 15,000","$2,038,548",40.80852,-77.855612,42.697129,-83.245517,494.40197574074,307.272825196233
+35,North America 1,"April 20, 2016",Baltimore,United States,Royal Farms Arena,"14,124 / 14,124","$2,054,260",39.288478,-76.618697,40.80852,-77.855612,199.348632785773,123.895980600232
+36,North America 1,"April 23, 2016",Brooklyn,United States,Barclays Center,"33,248 / 33,248","$4,641,260",40.682657,-73.975282,39.288478,-76.618697,273.697832700557,170.104308701403
+37,North America 1,"April 25, 2016",Brooklyn,United States,Barclays Center,N/A,United States,40.682657,-73.975282,40.682657,-73.975282,0,0
+38,Europe,"May 14, 2016",Barcelona,Spain,Camp Nou,"64,865 / 64,865","$6,014,054",41.380645,2.122732,40.682657,-73.975282,6168.73339863071,3833.89272755171
+39,Europe,"May 17, 2016",San Sebastián,Spain,Anoeta Stadium,"41,100 / 41,100","$3,839,494",43.301185,-1.973709,41.380645,2.122732,399.073717167555,248.025927388164
+40,Europe,"May 19, 2016[B]",Lisbon,Portugal,Parque da Bela Vista,N/A,N/A,38.749999,-9.125644,43.301185,-1.973709,785.246235173278,488.03370737929
+41,Europe,"May 21, 2016",Madrid,Spain,Santiago Bernabéu Stadium,"55,695 / 55,695","$5,359,310",40.452952,-3.688309,38.749999,-9.125644,503.309812959708,312.809082013492
+42,Europe,"May 25, 2016",Manchester,England,Etihad Stadium,"48,614 / 50,000","$5,785,157",53.483006,-2.200345,40.452952,-3.688309,1454.81201029807,904.171541515269
+43,Europe,"May 27, 2016",Dublin,Ireland,Croke Park,"160,188 / 160,188","$19,228,100",53.360826,-6.251081,53.483006,-2.200345,269.022340202352,167.198471225825
+44,Europe,"May 29, 2016",Dublin,Ireland,Croke Park,"160,188 / 160,188",N/A,53.360826,-6.251081,53.360826,-6.251081,0,0
+45,Europe,"June 1, 2016",Glasgow,Scotland,Hampden Park,"45,330 / 45,330","$5,314,504",55.825234,-4.253199,53.360826,-6.251081,303.060384943466,188.353253538512
+46,Europe,"June 3, 2016",Coventry,England,Ricoh Arena,"36,588 / 36,588","$4,523,864",52.448089,-1.495482,55.825234,-4.253199,416.666761768283,258.96007567948
+47,Europe,"June 5, 2016",London,England,Wembley Stadium,"68,696 / 68,696","$9,251,527",51.556701,-0.279665,52.448089,-1.495482,129.568063990095,80.5270751958328
+48,Europe,"June 14, 2016",The Hague,Netherlands,Malieveld,"67,715 / 67,715","$5,980,218",52.085721,4.319655,51.556701,-0.279665,321.846909614264,200.029154514769
+49,Europe,"June 17, 2016",Munich,Germany,Olympiastadion Munich,"54,119 / 54,119","$4,797,890",48.172374,11.544524,52.085721,4.319655,674.42397863168,419.157227241566
+50,Europe,"June 19, 2016",Berlin,Germany,Olympiastadion Berlin,"66,464 / 66,464","$5,932,416",52.51454,13.23948,48.172374,11.544524,498.102299715993,309.572591495335
+51,Europe,"June 22, 2016",Copenhagen,Denmark,Telia Parken,"50,178 / 50,178","$4,931,456",55.702504,12.572469,52.51454,13.23948,357.53764041932,222.211087892679
+52,Europe,"June 25, 2016",Gothenburg,Sweden,Ullevi,"124,734 / 124,734","$10,016,748",57.706008,11.987253,55.702504,12.572469,225.875787960355,140.382714705006
+53,Europe,"June 27, 2016",Gothenburg,Sweden,Ullevi,"124,734 / 124,734",N/A,57.706008,11.987253,57.706008,11.987253,0,0
+54,Europe,"June 29, 2016",Oslo,Norway,Ullevaal Stadion,"30,283 / 30,283","$3,111,732",59.949475,10.734653,57.706008,11.987253,259.949744203983,161.55981616158
+55,Europe,"July 3, 2016",Milan,Italy,San Siro,"104,646 / 104,646","$8,998,967",45.478103,9.124199,59.949475,10.734653,1614.48185792027,1003.40699684293
+56,Europe,"July 5, 2016",Milan,Italy,San Siro,"104,646 / 104,646",N/A,45.478103,9.124199,45.478103,9.124199,0,0
+57,Europe,"July 9, 2016[C]",Werchter,Belgium,Werchter Festival Grounds,"65,000 / 65,000",N/A,50.967229,4.685723,45.478103,9.124199,693.767370369278,431.179223349458
+58,Europe,"July 11, 2016",Paris,France,AccorHotels Arena,"35,344 / 35,344","$4,103,898",48.839169,2.378229,50.967229,4.685723,288.915681741477,179.56226335704
+59,Europe,"July 13, 2016",Paris,France,AccorHotels Arena,"35,344 / 35,344",N/A,48.839169,2.378229,48.839169,2.378229,0,0
+60,Europe,"July 16, 2016[D]",Rome,Italy,Circus Maximus,"56,369 / 56,369","$5,258,043",41.885406,12.485067,48.839169,2.378229,1104.61375166958,686.521909055054
+61,Europe,"July 20, 2016",Horsens,Denmark,CASA Arena Horsens,"29,423 / 29,423","$2,927,130",55.871204,9.857408,41.885406,12.485067,1568.44029749689,974.791981042192
+62,Europe,"July 23, 2016",Gothenburg,Sweden,Ullevi,"64,622 / 64,622","$5,052,563",57.706008,11.987253,55.871204,9.857408,242.011046294095,150.410842942259
+63,Europe,"July 25, 2016",Trondheim,Norway,Granåsen,"36,994 / 36,994","$3,897,365",63.377441,10.308963,57.706008,11.987253,637.935012881916,396.47918762083
+64,Europe,"July 28, 2016",Oslo,Norway,Frogner Park,"37,126 / 37,126","$3,858,353",59.935068,10.743284,63.377441,10.308963,383.887726103558,238.587772593883
+65,Europe,"July 31, 2016",Zürich,Switzerland,Letzigrund,"36,728 / 36,728","$5,178,033",47.382666,8.503808,59.935068,10.743284,1404.91010288407,873.157304464931
+66,North America 2,"August 23, 2016",East Rutherford,United States,MetLife Stadium,"153,930 / 153,930","$18,239,039",40.814209,-74.07369,47.382666,8.503808,6325.8199924265,3931.52268019049
+67,North America 2,"August 25, 2016",East Rutherford,United States,MetLife Stadium,"153,930 / 153,930","$18,239,039",40.814209,-74.07369,40.814209,-74.07369,0,0
+68,North America 2,"August 28, 2016",Chicago,United States,United Center,"19,313 / 19,313","$2,459,600",41.880647,-87.674153,40.814209,-74.07369,1141.55100917627,709.478563813714
+69,North America 2,"August 30, 2016",East Rutherford,United States,MetLife Stadium,–[a],–[b],40.814209,-74.07369,41.880647,-87.674153,1141.55100917627,709.478563813714
+70,North America 2,"September 1, 2016","Washington, D.C.",United States,Nationals Park,"36,463 / 36,463","$4,627,705",38.892851,-77.01621,40.814209,-74.07369,330.085057101204,205.149196458175
 71,North America 2,"September 5, 2016[E]",Virginia Beach,United States,"Veterans United
-North America 2,Home Loans Amphitheater","11,629 / 15,000","$1,082,764",36.769254,-76.103952
-72,North America 2,"September 7, 2016",Philadelphia,United States,Citizens Bank Park,"77,670 / 80,000","$10,048,796",39.905993,-75.16664
-73,North America 2,"September 9, 2016",Philadelphia,United States,Citizens Bank Park,N/A,United States,39.905993,-75.16664
-74,North America 2,"September 11, 2016",Pittsburgh,United States,Consol Energy Center,"16,674 / 18,353","$2,117,125",40.439593,-79.988935
-75,North America 2,"September 14, 2016",Foxborough,United States,Gillette Stadium,"48,324 / 51,664","$5,439,521",42.092537,-71.264125
-76,Australia/NZ,"January 22, 2017",Perth,Australia,Perth Arena,—,—,-31.948361,115.852022
-77,Australia/NZ,"January 25, 2017",Perth,Australia,Perth Arena,—,—,-31.948361,115.852022
-78,Australia/NZ,"January 27, 2017",Perth,Australia,Perth Arena,—,—,-31.948361,115.852022
-79,Australia/NZ,"January 30, 2017",Adelaide,Australia,Adelaide Entertainment Centre,—,—,-34.907925,138.573786
-80,Australia/NZ,"February 2, 2017",Melbourne,Australia,AAMI Park,—,—,-37.825124,144.983761
-81,Australia/NZ,"February 4, 2017",Melbourne,Australia,AAMI Park,—,—,-37.825124,144.983761
-82,Australia/NZ,"February 7, 2017",Sydney,Australia,Qudos Bank Arena,—,—,-33.844364,151.06214
-83,Australia/NZ,"February 9, 2017",Sydney,Australia,Qudos Bank Arena,—,—,-33.844364,151.06214
-84,Australia/NZ,"February 11, 2017",Mount Macedon,Australia,Hanging Rock,—,—,-37.330669,144.59467
-85,Australia/NZ,"February 14, 2017",Brisbane,Australia,Brisbane Entertainment Centre,—,—,-27.342432,153.070568
-86,Australia/NZ,"February 16, 2017",Brisbane,Australia,Brisbane Entertainment Centre,—,—,-27.342432,153.070568
-87,Australia/NZ,"February 18, 2017",Hunter Valley,Australia,Hope Estate,—,—,-32.767537,151.31253
-88,Australia/NZ,"February 21, 2017",Christchurch,New Zealand,AMI Stadium,—,—,-43.543612,172.604812
-89,Australia/NZ,"February 25, 2017",Auckland,New Zealand,Mount Smart Stadium,—,—,-36.918281,174.81235
+North America 2,Home Loans Amphitheater","11,629 / 15,000","$1,082,764",36.769254,-76.103952,38.892851,-77.01621,249.629961291596,155.146029391918
+72,North America 2,"September 7, 2016",Philadelphia,United States,Citizens Bank Park,"77,670 / 80,000","$10,048,796",39.905993,-75.16664,36.769254,-76.103952,358.636358225134,222.893945447566
+73,North America 2,"September 9, 2016",Philadelphia,United States,Citizens Bank Park,N/A,United States,39.905993,-75.16664,39.905993,-75.16664,0,0
+74,North America 2,"September 11, 2016",Pittsburgh,United States,Consol Energy Center,"16,674 / 18,353","$2,117,125",40.439593,-79.988935,39.905993,-75.16664,414.406154604963,257.555099195129
+75,North America 2,"September 14, 2016",Foxborough,United States,Gillette Stadium,"48,324 / 51,664","$5,439,521",42.092537,-71.264125,40.439593,-79.988935,752.491212637487,467.676328550334
+76,Australia/NZ,"January 22, 2017",Perth,Australia,Perth Arena,—,—,-31.948361,115.852022,42.092537,-71.264125,18744.3701891887,11649.7017956425
+77,Australia/NZ,"January 25, 2017",Perth,Australia,Perth Arena,—,—,-31.948361,115.852022,-31.948361,115.852022,0,0
+78,Australia/NZ,"January 27, 2017",Perth,Australia,Perth Arena,—,—,-31.948361,115.852022,-31.948361,115.852022,0,0
+79,Australia/NZ,"January 30, 2017",Adelaide,Australia,Adelaide Entertainment Centre,—,—,-34.907925,138.573786,-31.948361,115.852022,2131.78561604614,1324.9133723096
+80,Australia/NZ,"February 2, 2017",Melbourne,Australia,AAMI Park,—,—,-37.825124,144.983761,-34.907925,138.573786,659.768411545807,410.048733092484
+81,Australia/NZ,"February 4, 2017",Melbourne,Australia,AAMI Park,—,—,-37.825124,144.983761,-37.825124,144.983761,0,0
+82,Australia/NZ,"February 7, 2017",Sydney,Australia,Qudos Bank Arena,—,—,-33.844364,151.06214,-37.825124,144.983761,704.897270591341,438.096501299777
+83,Australia/NZ,"February 9, 2017",Sydney,Australia,Qudos Bank Arena,—,—,-33.844364,151.06214,-33.844364,151.06214,0,0
+84,Australia/NZ,"February 11, 2017",Mount Macedon,Australia,Hanging Rock,—,—,-37.330669,144.59467,-33.844364,151.06214,702.154402883248,436.391797938625
+85,Australia/NZ,"February 14, 2017",Brisbane,Australia,Brisbane Entertainment Centre,—,—,-27.342432,153.070568,-37.330669,144.59467,1366.72969226238,849.42802502323
+86,Australia/NZ,"February 16, 2017",Brisbane,Australia,Brisbane Entertainment Centre,—,—,-27.342432,153.070568,-27.342432,153.070568,0,0
+87,Australia/NZ,"February 18, 2017",Hunter Valley,Australia,Hope Estate,—,—,-32.767537,151.31253,-27.342432,153.070568,627.191266963389,389.801906130136
+88,Australia/NZ,"February 21, 2017",Christchurch,New Zealand,AMI Stadium,—,—,-43.543612,172.604812,-32.767537,151.31253,2206.3886675802,1371.27947021765
+89,Australia/NZ,"February 25, 2017",Auckland,New Zealand,Mount Smart Stadium,—,—,-36.918281,174.81235,-43.543612,172.604812,760.934171866223,472.923661818659
