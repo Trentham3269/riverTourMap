@@ -1,4 +1,3 @@
-# riverTourMap Server
 shinyServer(function(input, output) {
 
   # DATA -------------------------------------------------------------------------------------------

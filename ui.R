@@ -1,7 +1,11 @@
-# riverTourMap UI
 shinyUI( 
+  
   fluidPage(
-    # include Google Analytics
+    
+    # Apply free bootswatch theme
+    theme = shinytheme("spacelab"),
+    
+    # Include Google Analytics
     tags$head(includeScript("www/google-analytics.js")),
     
     h2(titlePanel("Bruce Springsteen and the E Street Band")),
